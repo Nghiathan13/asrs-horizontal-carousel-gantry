@@ -1,0 +1,29 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Autodesk Inventor generated/history folders
+OldVersions/
+**/OldVersions/
+*.lck
+*.lock
+
+# Large CAD binaries are intentionally hosted on Google Drive.
+*.ipt
+*.iam
+*.idw
+*.dwg
+*.step
+*.STEP
+*.stp
+*.pdf
+
+# FEA/generated outputs
+*.fins
+*.fmsh
+*.fres
+*.fsat
+*.ftes
+*.fwiz
+*.log
