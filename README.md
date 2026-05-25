@@ -52,6 +52,13 @@ Key design areas covered by the CAD package:
 - Manufacturing drawings for selected fabricated parts.
 - FEA-related Inventor files for selected load-bearing components.
 
+## My Contributions
+
+- Developed 3D CAD models for the horizontal carousel and gantry robot subsystems in Autodesk Inventor.
+- Prepared 2D technical drawings for selected fabricated components using AutoCAD.
+- Performed dynamic simulation and stress analysis to support mechanical design validation.
+- Organized CAD files and documentation for portfolio review.
+
 ## Design Highlights
 
 - Hybrid AS/RS layout combining dense carousel storage with robotic access.
